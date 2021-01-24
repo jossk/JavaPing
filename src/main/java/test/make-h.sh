@@ -1,0 +1,1 @@
+javac -h . JavaPing.java
